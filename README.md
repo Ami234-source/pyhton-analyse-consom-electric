@@ -9,3 +9,5 @@ On se chargera d’analyser les données de consommation en énergie de la ville
 •	Identifier les raisons des pics de consommation énergétique
 •	Formuler des recommandations sur la gestion énergétiques basées sur les résultats d'analyse
 Notre analyse sera scindée en cinq étapes. Une phase de traitement des données brutes obtenues, une étape descriptive, une analyse diagnostique, une analyse prédictive et enfin une analyse prescriptive
+
+Le dataset est disponible ici:- [Download the dataset (CSV)](powerconsumption.csv)
